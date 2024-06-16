@@ -38,15 +38,15 @@ Welcome to **CurryTales**, a delightful recipe website that brings you a rich co
 
 **Home Section**
 
-![Home](https://github.com/Aditya-Jambale/CurryTales/blob/main/src/public/home.png)
+![Home](https://github.com/Aditya-Jambale/CurryTales/blob/main/public/home.png)
 
 **Recipe Section**
 
-![Recipe](https://github.com/Aditya-Jambale/CurryTales/blob/main/src/public/recipe.png)
+![Recipe](https://github.com/Aditya-Jambale/CurryTales/blob/main/public/recipe.png)
 
 **Contact Us Section**
 
-![Contatct](https://github.com/Aditya-Jambale/CurryTales/blob/main/src/public/contact.png)
+![Contatct](https://github.com/Aditya-Jambale/CurryTales/blob/main/public/contact.png)
 
 
 
